@@ -1,0 +1,110 @@
+"sport","is_medalist","avg_height","avg_weight","avg_age","n"
+Alpine Skiing,true,173.7,72.8,24.5,354
+Alpine Skiing,false,173.5,72.0,23.3,5968
+Archery,true,173.3,70.8,24.8,206
+Archery,false,173.2,69.9,26.5,1677
+Art Competitions,true,174.0,75.5,32.0,2
+Art Competitions,false,172.7,74.5,40.9,26
+Athletics,true,177.6,71.5,25.1,3648
+Athletics,false,176.1,69.0,25.4,28726
+Badminton,true,174.6,67.8,25.5,154
+Badminton,false,174.2,68.2,25.8,1208
+Baseball,true,182.4,85.8,26.3,333
+Baseball,false,182.7,85.7,26.3,513
+Basketball,true,192.2,86.7,25.3,1000
+Basketball,false,190.9,85.5,25.5,2668
+Beach Volleyball,true,186.8,79.6,29.6,68
+Beach Volleyball,false,186.1,79.0,29.1,470
+Biathlon,true,174.5,66.9,27.0,388
+Biathlon,false,174.0,66.6,26.6,4227
+Bobsleigh,true,182.2,90.1,29.3,283
+Bobsleigh,false,181.5,89.0,28.6,1922
+Boxing,true,174.3,67.4,23.3,708
+Boxing,false,172.6,64.9,23.3,3655
+Canoeing,true,179.5,78.0,25.9,1041
+Canoeing,false,178.3,76.1,25.3,4509
+Cross Country Skiing,true,173.3,65.8,27.7,687
+Cross Country Skiing,false,173.3,65.9,25.9,6842
+Curling,true,174.3,73.4,32.1,131
+Curling,false,174.1,71.5,30.7,279
+Cycling,true,177.9,73.2,25.2,845
+Cycling,false,176.0,69.7,25.1,6930
+Diving,true,165.9,58.7,22.5,318
+Diving,false,166.8,60.9,22.2,1693
+Equestrianism,true,175.4,68.3,35.3,663
+Equestrianism,false,174.2,67.7,33.9,3890
+Fencing,true,178.0,72.1,27.2,1109
+Fencing,false,177.1,71.2,26.9,5428
+Figure Skating,true,168.5,60.2,24.1,249
+Figure Skating,false,168.1,59.4,21.8,1263
+Football,true,175.5,70.7,24.2,1084
+Football,false,175.4,70.4,23.4,3359
+Freestyle Skiing,true,170.7,67.4,24.9,102
+Freestyle Skiing,false,171.0,67.0,24.4,811
+Golf,true,179.8,80.5,33.0,4
+Golf,false,173.8,70.8,29.5,104
+Gymnastics,true,161.3,55.1,21.8,1161
+Gymnastics,false,163.0,57.0,21.7,17110
+Handball,true,183.2,81.2,26.6,937
+Handball,false,183.6,81.6,26.4,2382
+Hockey,true,173.7,69.2,25.7,1168
+Hockey,false,173.3,69.2,25.6,3096
+Ice Hockey,true,178.8,80.9,25.8,1301
+Ice Hockey,false,179.0,80.8,25.9,3278
+Judo,true,173.8,80.1,25.2,526
+Judo,false,174.2,78.6,25.4,2840
+Lacrosse,true,174.0,66.5,28.0,2
+Luge,true,178.3,79.2,25.9,178
+Luge,false,176.4,77.0,24.5,1199
+Modern Pentathlon,true,179.5,71.6,27.2,153
+Modern Pentathlon,false,177.9,70.1,26.0,1106
+Motorboating,false,181.0,77.0,27.0,1
+Nordic Combined,true,178.3,67.2,24.9,137
+Nordic Combined,false,176.3,66.9,24.0,928
+Rhythmic Gymnastics,true,170.6,49.3,18.9,124
+Rhythmic Gymnastics,false,167.1,48.6,18.8,491
+Rowing,true,184.6,80.9,25.9,2104
+Rowing,false,184.1,79.9,25.2,5686
+Rugby,true,173.7,77.5,24.1,30
+Rugby Sevens,true,176.6,81.3,25.3,74
+Rugby Sevens,false,175.0,78.3,26.3,223
+Sailing,true,179.4,77.5,30.0,677
+Sailing,false,178.1,75.7,29.3,4186
+Shooting,true,173.7,74.9,30.2,542
+Shooting,false,173.5,74.0,32.2,6718
+Short Track Speed Skating,true,169.7,64.1,22.5,274
+Short Track Speed Skating,false,170.2,64.4,22.9,1214
+Skeleton,true,175.7,71.1,29.0,24
+Skeleton,false,176.3,74.7,29.0,150
+Ski Jumping,true,177.3,62.9,23.7,175
+Ski Jumping,false,176.4,65.3,23.2,1791
+Snowboarding,true,173.6,69.6,24.7,89
+Snowboarding,false,173.0,69.5,24.9,835
+Softball,true,171.0,69.8,26.8,172
+Softball,false,168.4,66.0,25.9,269
+Speed Skating,true,175.2,71.2,25.3,488
+Speed Skating,false,174.0,69.9,24.1,3912
+Swimming,true,181.1,73.3,21.0,2486
+Swimming,false,178.2,70.2,20.6,16290
+Synchronized Swimming,true,168.9,56.4,23.8,214
+Synchronized Swimming,false,168.4,55.7,22.0,635
+Table Tennis,true,170.3,63.4,24.8,163
+Table Tennis,false,171.3,65.1,26.8,1626
+Taekwondo,true,178.6,68.7,23.5,144
+Taekwondo,false,176.2,67.9,24.3,452
+Tennis,true,180.4,72.1,25.9,173
+Tennis,false,178.8,70.7,25.0,1835
+Trampolining,true,166.3,59.1,24.0,29
+Trampolining,false,166.6,59.4,25.5,120
+Triathlon,true,174.9,62.5,28.2,30
+Triathlon,false,173.6,61.8,27.9,496
+Tug-Of-War,true,180.4,83.0,24.9,8
+Tug-Of-War,false,184.0,97.7,27.6,12
+Volleyball,true,186.9,79.6,25.8,958
+Volleyball,false,187.0,78.6,25.0,2319
+Water Polo,true,185.6,85.6,26.0,764
+Water Polo,false,184.8,84.2,25.6,1955
+Weightlifting,true,167.4,81.2,25.0,532
+Weightlifting,false,167.9,79.3,25.3,2442
+Wrestling,true,172.7,76.7,25.9,967
+Wrestling,false,172.3,75.4,25.6,4219
